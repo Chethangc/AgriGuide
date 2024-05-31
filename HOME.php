@@ -172,7 +172,7 @@ session_start();
 print_r($GLOBALS);
 if(isset($_SESSION['user']))
 {
-echo "<img src='homee.jpg' height=600px width=1280px class='imgpr' id='r'>";
+echo "<img src='images/homee.jpg' height=600px width=1280px class='imgpr' id='r'>";
 echo "<h1 id='r' style='font-family:Voces, cursive;
     font-style:italic;font-size:45px;position:absolute;top:-25px;left:40px;'>Welcome"." ".$_SESSION['user']."</h1>";}
 else
@@ -225,11 +225,11 @@ window.onclick = function(event) {
 </script>
 
 
-<img src="log.jpg" height=600px width=1280px class="imgpr de">
+<img src="images/log.jpg" height=600px width=1280px class="imgpr de">
 
 <div id="pp"><p class="head q">Growing Organic and Conventional Crops</p><p class="popup t">Farmers have many options when it comes to the types of crops they can grow on their land. Many see benefits in growing both organic and conventional.We talked to one farmer whose family has seen success adding an organic crop to their operation.</p>
 <a href="sub.html"><center><button style="background-color:#4d94ce;position:absolute;top:110%;left:44%;">MORE</button></center></a></div><br>
-<img src="flower.jpg" height=600px width=1280px class="imgpr s">
+<img src="images/flower.jpg" height=600px width=1280px class="imgpr s">
 <div style="color:white;position:absolute;top:220%;left:5%;" class="popup">
 <h1>Technology Spotlight</h1>
 <h1 style="font-weight:bold;font-size:45px;">The Science Inside a GMO Seed</h1>

@@ -173,7 +173,7 @@ frm.setAttribute("action","login.php");}
 </head>
 <body>
 
-<img src="regimage.jpg" class="img"/>
+<img src="images/regimage.jpg" class="img"/>
 
 <div class="overlay">
 </div>

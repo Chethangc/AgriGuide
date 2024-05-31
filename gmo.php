@@ -51,7 +51,7 @@ width:10px;
 </style>
 </head>
 <body>
-<img src="flower.jpg" height=600px width=1280px class="r">
+<img src="images/flower.jpg" height=600px width=1280px class="r">
 <div style="position:absolute;top:20%;text-align:center;color:white;left:10%; background:blue;border-radius:25px 25px;padding:10px;">
 <h1 style="font-weight:bold;font-size:70px;">The Science Inside a GMO</br> Seed</h1>
 <h1>Technology Spotlight</h1></div>
@@ -70,18 +70,18 @@ width:10px;
     <li>The plant is tested to ensure that it is safe for people, animals, and the environment.</li>
     <li>After years of testing and approvals from governments around the world, the new seeds<br> are available to farmers.</li></ol></span></div> 
 
-<img src="gmo.jpg" height=300px width=300px style="position:absolute;top:60%;left:60%;">
+<img src="images/gmo.jpg" height=300px width=300px style="position:absolute;top:60%;left:60%;">
 <p style="width:50%">Why Grow GM Crops?<br><span class="re">If you're wondering why farmers choose to grow genetically modified crops, it helps to consider the challenges they face every day: crop loss from weeds, insects, and disease, and the effects of climate change such as drought, just to name a few. Not only do seeds improved through genetic modification help them combat these challenges, but it can help them to use less of our precious resources like water and land.</span></p>
 
 <div style="font-weight:bold;background:lightblue;font-size:25px;color:black;width:97.5vw;position:absolute;height:300px;padding:10px;"></div>
 <p class="" style="position:absolute;left:300px;">Efficient Use of Natural Resources</p>
 <p style="position:absolute;left:300px;top:107%;">Some GM crops can use water more efficiently than conventional crops—meaning farmers can ultimately water their fields less often. Some GM seeds also promote the use of no-till farming, which keeps more moisture in the soil. This no-till method also reduces farming’s carbon footprint by using less fuel and keeping more carbon dioxide in the ground.</p></div>
-<img src="gmo2.jpg" height=250px width=250px style="position:absolute;top:230%;left:3%"></div>
+<img src="images/gmo2.jpg" height=250px width=250px style="position:absolute;top:230%;left:3%"></div>
 
 <div style="font-weight:bold;background:lightgreen;font-size:25px;color:black;width:97.5vw;position:absolute;height:300px;padding:10px;position:absolute;top:275%;">
 <p class="" style="position:absolute;left:300px;">Efficient Use of Natural Resources</p>
 <p style="position:absolute;left:300px;top:20%;">Just like people, plants are vulnerable to disease—and can even see their existence threatened. The Papaya Ringspot Virus was a significant threat in the 1990s. Scientists were able to save the papaya by making a virus-resistant version. The GM papaya today looks and tastes the same as non-GM papayas.</p></div>
-<img src="gmo3.jpg" height=280px width=280px style="position:absolute;top:278%;left:3%">
+<img src="images/gmo3.jpg" height=280px width=280px style="position:absolute;top:278%;left:3%">
 <a href="query.html"><center><button style="background-color:#4d94ce;color:white;position:fixed;top:10px;left:70%;font-size:20px;padding:2px;">SUBMIT QUERY</button></center></a>
 <a href="ab.html"><center><button style="background-color:#4d94ce;color:white;position:fixed;top:10px;left:85%;font-size:20px;padding:2px;">ABOUT US</button></center></a>
 a>

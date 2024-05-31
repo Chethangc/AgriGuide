@@ -156,7 +156,7 @@ function frame6() {
 <div class="r" style="background-color:green;"><marquee direction="right" behavior="slide"   scrollamount=20 width=710  >
 <reg class="ref">Welcome </reg></marquee></marquee></div>
 <div class="a">
-<img src="logo.png" height="150px" width="150px"/>
+<img src="images/logo.png" height="150px" width="150px"/>
 </div>
 
 <center>
@@ -168,7 +168,7 @@ function frame6() {
 <a id ="animate5"class="bttn">Page5</a>
 <a id ="animate6"class="bttn">Page6</a>
 <div id="gif"><img src="" height=px width=px /></div>
-<div id="logo"><img src="logo.png" height=370px width=370px /></div>
+<div id="logo"><img src="images/logo.png" height=370px width=370px /></div>
 </div ><center>
 <h1 align="center" style="position:absolute;top:100px;right:570px;font-size:50px;color:white;text-shadow:3px 3px black;">To</h1>
 <h1 align="center" style="position:absolute;top:160px;right:400px;font-size:50px;color:white;text-shadow:3px 3px black;">Agriculture Portal</h1>
